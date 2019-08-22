@@ -3,7 +3,7 @@ This projects aims to summarize the content written in Nepali language. First ap
 
 TODOs:</br>
 - [x] Extractive summary using tfidf
-- [x] summarization of Onlinekhabar.com news
-- [ ] summarization of Ekantipur.com news
+- [x] Summarize news of Onlinekhabar.com 
+- [ ] Summarize news of Ekantipur.com 
 - [ ] Automatic url link extraction
 - [ ] Abstraction based approach
